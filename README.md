@@ -1,4 +1,4 @@
-# [MERN Blogging Application](https://makemyblog.herokuapp.com)
+# [Full Stack blog Application]()
 
 ![](blogApplication.gif)
 
